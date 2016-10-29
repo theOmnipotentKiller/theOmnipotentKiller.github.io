@@ -1,1 +1,2 @@
 # theOmnipotentKiller.github.io
+# Blog
