@@ -1,0 +1,100 @@
+@import "http://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500,700,500italic,700italic";
+header {
+  width:30%;
+  float:left;
+  position:fixed;
+  font: "Helvetica Neue";
+  text-align:center;
+  border: 1px solid white;
+}
+.left{
+	float: none;
+	width:30%;
+	text-align: center;
+	margin:0 auto;
+}
+
+.image {
+	border-bottom-style: none;
+}
+
+
+li {
+	margin-right:20px;
+}
+
+body {
+  background-color: #fff;
+  padding:50px;
+  font-family: "Helvetica Neue";
+  color:#595959;
+  font-weight:400;
+  font-color:white;
+}
+
+p{
+	font-family:"Helvetica Neue";
+}
+
+img {
+	width:130px;
+	height:auto;
+}
+
+img#icon {
+	width:50px;
+	height:auto;
+}
+
+h2 {
+	font-weight: 300;
+	font-family: "Helvetica Neue";
+}
+
+h4 {
+	font-weight: 400;
+}
+
+h1 {
+	margin:20 0 20px;
+	font-weight: 500;
+	font-family: "Roboto";
+}
+
+
+li a, div.left a{
+	font-weight: 300;
+    color: #4ea9f2;
+    text-decoration: none;
+    position: relative;
+    border-bottom: 1px dotted #4ea9f2;
+}
+
+
+
+body a:hover,
+body a:active {
+    color: #222;
+    border-bottom: 1px dotted #222;
+    top: -1px;
+}
+
+#wrapper {
+     width: 100%;
+     margin: 0 auto;
+}
+
+section {
+	width:30%;
+	border: 1px solid white;
+  	float:right;
+  	position:fixed;
+  	font: "Helvetica Neue";
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
